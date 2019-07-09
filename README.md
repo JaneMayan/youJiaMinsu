@@ -1,5 +1,10 @@
 # youJiaMinsu
 
+
+![image](https://github.com/JaneMayan/youJiaMinsu/blob/master/1.png)
+![image](https://github.com/JaneMayan/youJiaMinsu/blob/master/2.png)
+
+
 if you have any question, please contact me with no hesitate
 
 Email: karpdz@163.com
